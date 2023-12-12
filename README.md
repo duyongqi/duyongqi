@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @duyongqi 😉
-- 👀 I’m interested in DNN model compression and theoretical understanding of DNN
-- 🌱 I’m currently learning some theoretical basic for my future research 🎨
-- 💞️ I’m looking to collaborate about understanding or finding out some phenomenons in deep learning. 🦁
+- 👋 Hi, I’m @duyongqi 🧐
+- 👀 I’m interested in machine learning theory and its applications
+- 🌱 I’m currently learning some theoretical basics for my future research and math tools like random matrix theory! 🎨
+- 💞️ I’m actively seeking collaboration opportunities to explore and understand phenomena in machine learning and deep learning. 🦁
+- 😉 Besides, I am keenly interested in interdisciplinary work, specifically at the intersection of mental health and machine learning.
 - 📫 My email:yongqi_du@hust.edu.cn
 
 <!---
