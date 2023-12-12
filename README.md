@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duyongqi 🧐
+- 👋 Hi, I’m @YongqiDu 🧐
 - 👀 I’m interested in machine learning theory and its applications
 - 🌱 I’m currently learning some theoretical basics for my future research and math tools like random matrix theory! 🎨
 - 💞️ I’m actively seeking collaboration opportunities to explore and understand phenomena in ML and DL. 🦁
