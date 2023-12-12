@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @duyongqi 🧐
 - 👀 I’m interested in machine learning theory and its applications
 - 🌱 I’m currently learning some theoretical basics for my future research and math tools like random matrix theory! 🎨
-- 💞️ I’m actively seeking collaboration opportunities to explore and understand phenomena in machine learning and deep learning. 🦁
+- 💞️ I’m actively seeking collaboration opportunities to explore and understand phenomena in ML and DL. 🦁
 - 😉 Besides, I am keenly interested in interdisciplinary work, specifically at the intersection of mental health and machine learning.
 - 📫 My email:yongqi_du@hust.edu.cn
 
